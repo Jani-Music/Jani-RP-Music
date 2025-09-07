@@ -19,12 +19,12 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002734717816))
 OWNER_ID = int(getenv("OWNER_ID", 7766262190))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/JaniRPLover/Ruhani-Music",)
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Jani-Music/Jani-RP-Music",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-API_KEY = getenv("API_KEY", 'NxGBNexGenBots901703') # youtube song api ke
+API_KEY = getenv("API_KEY", 'NxGBNexGenBotsca027a') # youtube song api ke
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_RP")
