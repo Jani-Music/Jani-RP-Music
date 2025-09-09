@@ -7,13 +7,13 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """**
-<u>❃ Wҽʅƈσɱҽ Tσ Tҽαɱ Jαɳι Rҽρσʂ ❃</u>
+<u>❃ Wҽʅƈσɱҽ Tσ Tҽαɱ Mαყυɾι Rҽρσʂ ❃</u>
  
 ✼ Rҽρσ Tσ Nԋι Mιʅҽɠα
  
-❉ Jαɳι ραρα Bσʅσ Rҽρσ Oɯɳҽɾ Kσ 
+❉ Mҽԋυ 420 ραρα Bσʅσ Rҽρσ Oɯɳҽɾ Kσ 
 
-✼ || [Jani Update](https://t.me/Jani_RP) ||
+✼ || [Mayuri Update](https://t.me/+dV10ZuqXLBYyYzZl) ||
  
 ❊ ʀᴜη 24x7 ʟᴧɢ ϝʀєє ᴡɪᴛʜσᴜᴛ sᴛσᴘ**
 """
@@ -28,18 +28,18 @@ async def start(_, msg):
           InlineKeyboardButton("✙ ᴧᴅᴅ ϻє вᴧʙʏ ✙", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("• ʜєʟᴘ •", url="http://t.me/RP_Lover_Baby"),
-          InlineKeyboardButton("• 𝛅ᴜᴘᴘσʀᴛ •", url="https://t.me/+7ROq61PIXmE5NmU1"),
+          InlineKeyboardButton("• ʜєʟᴘ •", url="http://t.me/Mehu_420"),
+          InlineKeyboardButton("• 𝛅ᴜᴘᴘσʀᴛ •", url="https://t.me/+dV10ZuqXLBYyYzZl"),
           ],
 [
-InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/Jani_Music_Robot"),
+InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/MayuriMusicBot"),
 
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://files.catbox.moe/u15ml3.jpg",
+        photo="https://files.catbox.moe/0rl8s0.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
