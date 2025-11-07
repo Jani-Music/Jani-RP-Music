@@ -50,7 +50,7 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @MayuriMusicBot @AavyaMusicBot @MayuriChatBot I love You 😘
+ єxᴧϻᴘʟє : @SelfishMusicBot @SelfishMusicBot @SelfishMusicBot I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
@@ -406,19 +406,19 @@ class Helper(object):
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
-╭⎋ [Mayuri 𔘓 Music ♪ Add Free](https://t.me/MayuriMusicBot) : ᴧʟɪᴠє 
+╭⎋ [Selfish 𔘓 Music ♪ Add Free](https://t.me/SelfishMusicBot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [𐓘αᴠʏᴀ ꭙ мυѕιᴄ ♪ Add Free](https://t.me/AavyaMusicBot) : ᴧʟɪᴠє 
+╭⎋ [Selfish 𔘓 Music ♪ Add Free](https://t.me/SelfishMusicBot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [Mayuri Chat Bot](https://t.me/MayuriChatBot) : ᴧʟɪᴠє 
+╭⎋ [Selfish 𔘓 Music ♪ Add Free](https://t.me/SelfishMusicBot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/MayuriMusicBot)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](https://t.me/SelfishMusicBot)
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 10 ᴊᴀɴ 2025 
 ─────────────────────────
@@ -437,8 +437,8 @@ class Helper(object):
 ● ᴇηᴊᴏʏ ғєєʟ ғʀєє ϻᴜsɪᴄ ᴡɪᴛʜ 𝐊ʀɪᴛɪ.
 ● ᴧᴅᴅ ϻє ηᴏᴡ ʙᴧʙʏ ɪɴ ʏᴏᴜʀ ɢʀσᴜᴘs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [Mayuri Music](https://t.me/+GI_pjeSUwvtmMWI9)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [Mayuri Group](https://t.me/+GI_pjeSUwvtmMWI9)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [Selfish Music](https://t.me/+c4LoS5-9v0M4NzQ1)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [Selfish Group](https://t.me/+c4LoS5-9v0M4NzQ1)
 ❖ ʙᴏᴛ σᴡηєʀ ➥ [𐏓𐏓꯭꯭ ⃪꯭꯭꯭꯭꯭🇻꯭꯭꯭꯭꯭꯭꯭꯭꯭꯭ɪ֟፝ᴘ]꯭꯭꯭꯭᭄ ⃪꯭꯭꯭꯭꯭𝗝𝗮꯭꯭꯭꯭꯭𝗻𝗶]꯭꯭꯭꯭᭄𝅃꯭᳚𝆺꯭𝅥𝆺𝅥.](https://t.me/RamHackerTG)
 ❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](http://t.me/RamHackerTG)
 ─────────────────────────
